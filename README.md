@@ -24,3 +24,7 @@ resource for any interest CTF
 [Wiki Forensic](https://trailofbits.github.io/ctf/forensics/)  
 [Google Memory Forensic (Picture)](https://www.rootusers.com/google-ctf-2016-forensic-for1-write-up/)  
 [SHX7 : for300-go_deeper](http://dann.com.br/shx7-for300-go_deeper/)  
+
+### Hackthebox  
+[https://0xdf.gitlab.io/](https://0xdf.gitlab.io/)
+[https://twitter.com/ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/playlists)  
