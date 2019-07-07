@@ -16,3 +16,8 @@ resource for any interest CTF
 [Substitution Cipher](https://github.com/PlatyPew/picoctf-2018-writeup/tree/master/Cryptography/hertz)  
 [substitution cipher](https://quipqiup.com/)  
 [Vigenère Cipher Codebreaker](https://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx)  
+
+### Memory
+[Memory Forensics](https://ctf101.org/forensics/what-is-memory-forensics/)  
+[\[hsb\] Presents: OtterCTF 2018 — Memory Forensics Write-Up](https://medium.com/hackstreetboys/hsb-presents-otterctf-2018-memory-forensics-write-up-c3b9e372c36c)  
+[Securityfest CTF - Coresec challenge writeup](https://dubell.io/securityfest-ctf-coresec-challenge-writeup/)  
