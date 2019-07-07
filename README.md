@@ -9,6 +9,12 @@ resource for any interest CTF
 [CTF Resources](http://ctfs.github.io/resources/)  
 [CTF Wiki](https://ctf-wiki.github.io/ctf-wiki/)  
 
+### Vulnhub
+[https://www.techsuii.com/2017/11/18/walkthrough-lazysysadmin1-vulnhub/](https://www.techsuii.com/2017/11/18/walkthrough-lazysysadmin1-vulnhub/)  
+[https://www.techsuii.com/2017/11/13/how-to-pass-dina-vulnhub/](https://www.techsuii.com/2017/11/13/how-to-pass-dina-vulnhub/)  
+[https://www.techsuii.com/2017/05/01/walk-through-billu_b0x-vulhhub/](https://www.techsuii.com/2017/05/01/walk-through-billu_b0x-vulhhub/)  
+[https://www.techsuii.com/2017/12/03/how-to-pass-theether-vulnhub/](https://www.techsuii.com/2017/12/03/how-to-pass-theether-vulnhub/)  
+
 ### Crypto
 [Identify Hash](https://github.com/blackploit/hash-identifier)  
 [CyberChef](https://gchq.github.io/CyberChef/)  
@@ -28,9 +34,3 @@ resource for any interest CTF
 ### Hackthebox  
 [https://0xdf.gitlab.io/](https://0xdf.gitlab.io/)
 [https://twitter.com/ippsec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/playlists)  
-
-### Vulnhub
-[https://www.techsuii.com/2017/11/18/walkthrough-lazysysadmin1-vulnhub/](https://www.techsuii.com/2017/11/18/walkthrough-lazysysadmin1-vulnhub/)  
-[https://www.techsuii.com/2017/11/13/how-to-pass-dina-vulnhub/](https://www.techsuii.com/2017/11/13/how-to-pass-dina-vulnhub/)  
-[https://www.techsuii.com/2017/05/01/walk-through-billu_b0x-vulhhub/](https://www.techsuii.com/2017/05/01/walk-through-billu_b0x-vulhhub/)  
-[https://www.techsuii.com/2017/12/03/how-to-pass-theether-vulnhub/](https://www.techsuii.com/2017/12/03/how-to-pass-theether-vulnhub/)  
