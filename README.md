@@ -1,6 +1,12 @@
 # ctf_resource
 resource for any interest CTF
 
+### Setup CTF  
+https://blog.ctfd.io/automating-ctf-challenge-deployment-5f79022e310f  
+https://github.com/craSH/socat/blob/master/EXAMPLES  
+https://github.com/abhisek/pwnworks  
+https://www.jianshu.com/p/a659924515f7  
+
 ### CTF Writeup and Tool
 [Writeup for picoCTF 2018](https://github.com/PlatyPew/picoctf-2018-writeup#binary-exploitation)  
 [Writeup for picoCTF 2018#2](https://tcode2k16.github.io/blog/posts/picoctf-2018-writeup/forensics/)  
